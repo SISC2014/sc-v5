@@ -1,7 +1,7 @@
 ---
 layout: lesson
 root: ../..
-title: Introducing the Shell
+title: Introducing the Unix Shell
 ---
 <div class="objectives" markdown="1">
 
